@@ -1,0 +1,7 @@
+md5: 1377b0e9c0565f5dd06787ada491ae05
+outs:
+- md5: 8e2266a2390c354f9eb7265fab7ab41b
+  path: data.csv
+  cache: true
+  metric: false
+  persist: false
